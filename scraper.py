@@ -42,7 +42,7 @@ def query_api(num):
 async def main():
     starting = 1
     ending = 21100
-    excluded = [int(f.replace('.json', '')) for f in os.listdir('../output/raw')]
+    excluded = [int(f.replace('.json', '')) for f in os.listdir(output_folder_raw)]
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
 
         loop = asyncio.get_event_loop()
