@@ -1,9 +1,9 @@
-#Tribunal Supremo Electoral TSE 
-###Extraccion de Resultados Electorales 2019
+# Tribunal Supremo Electoral TSE 
+### Extraccion de Resultados Electorales 2019
 
 ---
 
-##Requisitos
+## Requisitos
 
 - __[Python3.6](https://medium.com/@moreless/install-python-3-6-on-ubuntu-16-04-28791d5c2167)__ - Este es un link donde puedes instalar python3.6.
 
